@@ -101,7 +101,7 @@ Creatividad: 3
 
 ## Ignacio Alvarado arq
 Compromiso: 7
-Participación: 5
+Participación: 0
 Creatividad: 10
 
 
@@ -174,13 +174,8 @@ Compromiso: 10
 Participación: 10
 Creatividad : 10
 
-## Ignacio Alvarado
 
-Muy bien Ignacio, que bueno que el conocimiento adquirido, lo estés llevando a la práctica, felicitaciones.
 
-Compromiso: 10
-Participación: 10
-Creatividad : 10
 
 
 ## Desarrollo Web
@@ -270,12 +265,6 @@ Creatividad: 10
 Participacion: 10
 
 
-## Cristian Valencia
-Muy bien, haz cumplido con todo lo solicitado y haz puesto de tu esfuerzo por hacer más de lo que ha exigido la clase en sí, felicitaciones Cristian.
-
-Compromiso: 10
-Creatividad: 10
-Participacion: 10
 
 
 
